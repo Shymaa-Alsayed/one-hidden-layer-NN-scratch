@@ -6,9 +6,7 @@ of neural networks as explained by Andrew Ng  as part of Stanford Machine Learni
 ### Anaconda
 * Create a new folder with your framework name in your Anaconda installation Lib folder, destination will be like: Anaconda3/Lib/framework
 * add neuralnet.py to this folder
-* add an empty python file to this folder and name it 
-
-\_\_init\_\_.py
+* add an empty python file to this folder and name it \_\_init\_\_.py
 
 ## Using it in python scripts
 
