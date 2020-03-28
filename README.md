@@ -1,5 +1,5 @@
 # one-hidden-layer NN framework from scratch
-Simple neural network framework with input, hidden, output layer written in python from scratch. This implementation is based upon core concepts
+This implementation is in python and is based upon core concepts
 of neural networks as explained by Andrew Ng  as part of Stanford Machine Learning course.
 
 ## Setup as a package 
@@ -7,7 +7,8 @@ of neural networks as explained by Andrew Ng  as part of Stanford Machine Learni
 * Create a new folder with your framework name in your Anaconda installation Lib folder, destination will be like: Anaconda3/Lib/framework
 * add neuralnet.py to this folder
 * add an empty python file to this folder and name it 
-__init__.py
+
+\_\_init\_\_.py
 
 ## Using it in python scripts
 
